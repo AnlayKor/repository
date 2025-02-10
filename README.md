@@ -1,2 +1,2 @@
 # repository
-for lab 9
+for lab 9 and 10
